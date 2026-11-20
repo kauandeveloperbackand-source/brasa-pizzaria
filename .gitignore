@@ -1,0 +1,6 @@
+# arquivos de trabalho, não vão para o site
+*.pdf
+BRIEFING-*.md
+.vscode/
+Thumbs.db
+desktop.ini
